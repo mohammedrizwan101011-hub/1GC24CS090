@@ -1,0 +1,9 @@
+Title: Mr.
+Full Name: Rizwan
+USN: 1GC24CS090
+Semester: Third
+Section: B
+Branch: Computer Science and Engineering
+Year of Admission: 2024
+College Name: GCE
+
