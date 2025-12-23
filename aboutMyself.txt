@@ -6,4 +6,6 @@ Section: B
 Branch: Computer Science and Engineering
 Year of Admission: 2024
 College Name: GCE
-
+sslc: Govt urdu high school
+puc: Diamond independent pu science college
+ug degree: 2nd year cse
