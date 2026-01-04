@@ -1,5 +1,4 @@
-Title: Mr.
-Full Name: Rizwan
+
 USN: 1GC24CS090
 Semester: Third
 Section: B
