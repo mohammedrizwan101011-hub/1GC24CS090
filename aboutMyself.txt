@@ -8,3 +8,4 @@ College Name: GCE
 sslc: Govt urdu high school
 puc: Diamond independent pu science college
 ug degree: 2nd year cse
+
